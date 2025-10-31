@@ -33,9 +33,7 @@ public class User {
         this.name = name;
     }
 
-    public Integer getAge() {
-        return age;
-    }
+
 
 
 }
